@@ -1,39 +1,84 @@
-
 ##  Olá! Eu sou Christiane Gozza. 🌻
 
-<a href="https://github.com/chritianegozza">
-  <img height = "180em" src = "https://avatars.githubusercontent.com/u/72118415?v=4" />
+<A href="https://github.com/chritianegozza" >
+  <img height = "180em" src = "https://avatars.githubusercontent.com/u/72118415?v=4">
   
 <div>
 
 
- Idiomas e ferramentas:
-<div style = "display: inline_block"> 
-    
-  <img align = "center" alt = "Chris-Ts" height = "60" width = "110" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUag2sa9uOUBMB5fwiatrBxJm6G-mw4M6mg&usqp=CAU">
-  
-  <img align = "center" alt = "Chris-Ts" height = "60" width = "40" src = "https://avatars.githubusercontent.com/u/2918581?s=200&v=4">
-  <img align = "center" alt = "Chris-Ts" height = "60" width = "40" src = "http://s2.glbimg.com/5Tu8pNzk2Y-Ce3mr31dsTnYnxQY=/695x0/s.glbimg.com/po/tt2/f/original/2016/05/18/java-logo-02.jpg">
-  <img align = "center" alt = "Chris-Ts" height = "60" width = "40" src = "http://www.hti.com.br/images/mysql/mysql-logo.png">
-  
-   <img align = "center" alt = "Chris-Ts" height = "60" width = "40" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
-        
-  <p><h2>Estudante de Desenvolvimento de Sistema na ETEC</h2></p>
+  ## 💻 Idiomas e ferramentas:
 
-  <br>Em busca de uma oportunidade de estágio na área da programação e me desenvolver 
-  junto a sua empresa.<br>
-  <h5>Deseja entrar em contato comigo?</h5>
+
+<div display = "flex">
+  <img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+  <img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src = "https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
+  <img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+  <img src = "https://img.shields.io/badge/Java%20-%2300599C.svg?&style=for-the-badge&logo=java&logoColor=white">
+  <img src = "https://img.shields.io/badge/PHPjs%20-%2335495e.svg?&style=for-the-badge&logo=PHP&logoColor=%234FC08D">
+  <img src = "https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src = "https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src = "https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+  <img src = "https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+</div>
+<br/>
+
+
+ ## 🖥️  Máquina:
+<div display = "flex">
+  <img src = "https://img.shields.io/badge/windows-MSI%20GL63%208RC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src = "https://img.shields.io/badge/ubuntu-MSI%20GL63%208RC-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
   
+</div>
+<br>
+
+  
+   ## 👩‍💻 Sobre mim: 
+
+  <p><h2>🎓 Cursando Desenvolvimento de Sistemas na ETEC Ruth Cardoso</h2></p>
+
+  <br>✍️ Em busca de uma oportunidade de estágio na área da programação.<br>
+   
+  <br>🍒 Desenvolvedora Android e desenvolvedora web front-end</br>
+   
+  <br>💼 Cursando alguns Bootcamps como IGTI, Alura, Digital Innovation One</br>
+
+  <br>🚀 Atualmente estou aprendendo Python.</br>
+  
+  <br>👩 Entusiasta e apaixonada por tecnologia</br> 
+   
+
+  <h5>🤝🏻 Deseja entrar em contato comigo?</h5>
+   
+
+  <img src = "https://cdn.streamelements.com/uploads/e18015f5-0608-4c54-97dd-d236f8206e1d.gif">
+                                             
+
+   ## ⚙️  Minhas Redes Sociais:
+  
+
  
-<a href="https://www.linkedin.com/in/christiane-gozza-0b7b0089/"><button style="background: rgb(193, 6, 131); border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">linkedin</button></a>
-<a href="https://www.facebook.com/christiane.moon"><button style="background: rgb(193, 6, 131); border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">facebook</button></a>
-<a href="https://www.instagram.com/annemoom/"><button style="background: rgb(193, 6, 131); border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">instagram</button></a>
-<a href="https://web.whatsapp.com/"><button style="background: rgb(193, 6, 131); border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">whatsapp</button></a><br>
+<a href="https://www.linkedin.com/in/christiane-gozza"><img src = "https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target =" _ blank"> </a><a href="https://www.instagram.com/annemoom/"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-emblema&logo=instagram&logoColor=white" target = "_blank "></a><a href="https://www.youtube.com/channel/UCJdku_MHhU-XO8-jaMNcGWw"> <img src = "https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target = "_blank "> </a><a href="https://discord.gg/93bPG5Hf"> <img src = "https://img.shields.io/badge/-Discord-%7289DA?style=for-the-badge&logo=discord&logoColor=white" target = "_blank"> </a><a href="https://www.facebook.com/christiane.moon"> <img src ="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target = "_ blank " > </a><a href = "mailto:christianenatachag@gmail"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
 
- <p><img align = "center" alt = "Chris-Ts" height = "80" width = "70" src = "https://media.tenor.com/images/d139e96072bae377be522258f7128881/tenor.gif"></p>
+
+[![Christiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=chritianegozza)](https://github.com/chritianegozza/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chritianegozza&layout=compact)](https://github.com/chritianegozza/github-readme-stats)
+
+
+
+
+
+
+ <p><img align = "center" alt = "Chris-Ts" height = "90" width = "80" src = "https://media.tenor.com/images/d139e96072bae377be522258f7128881/tenor.gif"></p>
   
+
+ Deixe uma ⭐️[ChristianeGozza](https://github.com/chritianegozza)
+
 
 </div>
 
+   # Animação de cobra
+     
   
-  
+! [ Animação de cobra ] (https://github.com/chritianegozza/chritianegozza/blob/output/github-contribution-grid-snake.svg)
