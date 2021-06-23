@@ -1,3 +1,5 @@
+
+
 ##  Olá! Eu sou Christiane Gozza. 🌻
 
 <A href="https://github.com/chritianegozza" >
@@ -35,7 +37,7 @@
   
    ## 👩‍💻 Sobre mim: 
 
-  <p><h2>🎓 Cursando Desenvolvimento de Sistemas na ETEC Ruth Cardoso</h2></p>
+  <p>🎓 Cursando Desenvolvimento de Sistemas na ETEC Ruth Cardoso</p>
 
   <br>✍️ Em busca de uma oportunidade de estágio na área da programação.<br>
    
@@ -58,7 +60,7 @@
   
 
  
-<a href="https://www.linkedin.com/in/christiane-gozza"><img src = "https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target =" _ blank"> </a><a href="https://www.instagram.com/annemoom/"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-emblema&logo=instagram&logoColor=white" target = "_blank "></a><a href="https://www.youtube.com/channel/UCJdku_MHhU-XO8-jaMNcGWw"> <img src = "https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target = "_blank "> </a><a href="https://discord.gg/93bPG5Hf"> <img src = "https://img.shields.io/badge/-Discord-%7289DA?style=for-the-badge&logo=discord&logoColor=white" target = "_blank"> </a><a href="https://www.facebook.com/christiane.moon"> <img src ="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target = "_ blank " > </a><a href = "mailto:christianenatachag@gmail"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+<a href="https://www.linkedin.com/in/christiane-gozza"><img src = "https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target =" _ blank"> </a><a href="https://www.instagram.com/annemoom/"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-emblema&logo=instagram&logoColor=white" target = "_blank "></a><a href="https://www.youtube.com/channel/UCJdku_MHhU-XO8-jaMNcGWw"> <img src = "https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target = "_blank "> </a><a href="https://discord.gg/93bPG5Hf"> <img src = "https://img.shields.io/badge/-Discord-%7289DA?style=for-the-badge&logo=discord&logoColor=white" target = "_blank"> <a href = "mailto:christianenatachag@gmail"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
 
 
 [![Christiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=chritianegozza)](https://github.com/chritianegozza/github-readme-stats)
@@ -73,12 +75,13 @@
  <p><img align = "center" alt = "Chris-Ts" height = "90" width = "80" src = "https://media.tenor.com/images/d139e96072bae377be522258f7128881/tenor.gif"></p>
   
 
- Deixe uma ⭐️[ChristianeGozza](https://github.com/chritianegozza)
-
-
 </div>
 
    # Animação de cobra
      
   
 ! [ Animação de cobra ] (https://github.com/chritianegozza/chritianegozza/blob/output/github-contribution-grid-snake.svg)
+
+
+
+Deixe uma ⭐️[ChristianeGozza](https://github.com/chritianegozza)
