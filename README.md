@@ -7,6 +7,11 @@
   
 <div>
 
+  Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  | Minhas Redes Sociais | Meus números aqui no github
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
   ## 💻 Idiomas e ferramentas:
 
@@ -67,6 +72,7 @@
 
 </br>
 
+## 🚀 Meus números aqui no github
 
 [![Christiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=chritianegozza)](https://github.com/chritianegozza/github-readme-stats)
 
