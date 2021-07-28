@@ -2,15 +2,19 @@
 
 ##  Olá! Eu sou Christiane Gozza. 🌻
 
+Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  | Minhas Redes Sociais | Meus números aqui no github
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
 <A href="https://github.com/chritianegozza" >
   <img height = "180em" src = "https://avatars.githubusercontent.com/u/72118415?v=4">
   
 <div>
 
-  Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  | Minhas Redes Sociais | Meus números aqui no github
-
-
-
+  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
   ## 💻 Idiomas e ferramentas:
