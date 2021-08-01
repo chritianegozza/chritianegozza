@@ -61,7 +61,6 @@ Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  
 
   ## 🤝🏻 Deseja entrar em contato comigo?
    
-   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="christiane-gozza"><a class="LI-simple-link" href='https://br.linkedin.com/in/christiane-gozza?trk=profile-badge'>Christiane Gozza</a></div>
 
   <img src = "https://cdn.streamelements.com/uploads/e18015f5-0608-4c54-97dd-d236f8206e1d.gif">
                                              
