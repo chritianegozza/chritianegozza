@@ -46,15 +46,17 @@ Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  
   
    ## 👩‍💻 Sobre mim: 
 
-  <p>🎓 Cursando Desenvolvimento de Sistemas na ETEC Ruth Cardoso</p>
+  <p>🎓 Formada em Desenvolvimento de Sistemas na ETEC Ruth Cardoso</p>
+  
+   <p>🎓 Cursando em Sistemas para Internet na FATEC </p>
 
   <br>✍️ Em busca de uma oportunidade de estágio na área da programação.<br>
    
-  <br>🍒 Desenvolvedora Android e desenvolvedora web front-end</br>
+  <br>🍒 Desenvolvedora web front-end</br>
    
   <br>💼 Cursando alguns Bootcamps como IGTI, Alura, Digital Innovation One</br>
 
-  <br>🚀 Atualmente estou aprendendo Python.</br>
+  <br>🚀 Atualmente estou aprendendo .NET e C#.</br>
   
   <br>👩 Entusiasta e apaixonada por tecnologia</br> 
    
