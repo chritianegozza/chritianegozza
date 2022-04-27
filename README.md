@@ -80,9 +80,14 @@ Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  
 
 ## 🚀 Meus números aqui no github
 
-[![Christiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=chritianegozza)](https://github.com/chritianegozza/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chritianegozza&layout=compact)](https://github.com/chritianegozza/github-readme-stats)
+![Chritiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=chritianegozza&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chritianegozza&layout=compact&show_icons=true&theme=radical)](https://github.com/chritianegozza/github-readme-stats)
+
+
+
+
 
 
 
