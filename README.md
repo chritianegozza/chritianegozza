@@ -67,12 +67,30 @@ Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  
   <img src = "https://cdn.streamelements.com/uploads/e18015f5-0608-4c54-97dd-d236f8206e1d.gif">
                                              
 
-   ## ⚙️  Minhas Redes Sociais:
+ 
+   
+  ## <p align="left">
+   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
   
 
 <div>
  <br>
-<a href="https://www.linkedin.com/in/christiane-gozza"><img src = "https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target =" _ blank"> </a><a href="https://www.instagram.com/annemoom/"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-emblema&logo=instagram&logoColor=white" target = "_blank "></a><a href="https://www.youtube.com/channel/UCJdku_MHhU-XO8-jaMNcGWw"> <img src = "https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target = "_blank "> </a><a href="https://discord.gg/93bPG5Hf"> <img src = "https://img.shields.io/badge/-Discord-%7289DA?style=for-the-badge&logo=discord&logoColor=white" target = "_blank"> <a href = "mailto:christianenatachag@gmail"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+
+
+<p align="left">
+  <a href="mailto:christianenatachag@gmail" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:christianenatachag@gmail" /></a>
+
+  <a href="https://www.linkedin.com/in/christiane-gozza/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiane-gozza" /></a>
+
+  <a href="https://www.youtube.com/channel/UCJdku_MHhU-XO8-jaMNcGWw" alt="Youtube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style= flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCJdku_MHhU-XO8-jaMNcGWw"/></a>
+  <a href="https://www.instagram.com/annemoom/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/annemoom/"/></a>
+</p>  
+
 
 </div>
 
