@@ -17,7 +17,7 @@ Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-  ## 💻 Idiomas e ferramentas:
+  ## 💻 Minhas Skills:
 
 
 <div display = "flex">
