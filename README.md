@@ -2,7 +2,7 @@
 
 ##  Olá! Eu sou Christiane Gozza. 🌻
 
-Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  | Minhas Redes Sociais | Meus números aqui no github
+Idiomas e ferramentas | Sobre mim | Deseja entrar em contato comigo  | Minhas Redes Sociais | Meus números aqui no github
 
 
 
@@ -14,6 +14,7 @@ Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  
   
 <div>
 
+  
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,15 +34,7 @@ Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  
   <img src = "https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 <br/>
-
-
- ## 🖥️  Máquina:
-<div display = "flex">
-  <img src = "https://img.shields.io/badge/windows-MSI%20GL63%208RC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src = "https://img.shields.io/badge/ubuntu-MSI%20GL63%208RC-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
-  
-</div>
-<br>
+ <img src = "https://cdn.streamelements.com/uploads/e18015f5-0608-4c54-97dd-d236f8206e1d.gif">
 
   
    ## 👩‍💻 Sobre mim: 
@@ -62,14 +55,8 @@ Idiomas e ferramentas | Máquina | Sobre mim | Deseja entrar em contato comigo  
    
 
   ## 🤝🏻 Deseja entrar em contato comigo?
-   
-
-  <img src = "https://cdn.streamelements.com/uploads/e18015f5-0608-4c54-97dd-d236f8206e1d.gif">
-                                             
-
  
-   
-  ## <p align="left">
+   <p align="left">
    💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
   
