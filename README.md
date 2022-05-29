@@ -3,20 +3,7 @@
 ##  Olá! Eu sou Christiane Gozza. 🌻
 
 Idiomas e ferramentas | Sobre mim | Deseja entrar em contato comigo  | Minhas Redes Sociais | Meus números aqui no github
-
-
-
--------------------------------------------------------------------------------------------------------------------------------------
-
-
-<A href="https://github.com/chritianegozza" >
-  <img height = "180em" src = "https://avatars.githubusercontent.com/u/72118415?v=4">
-  
-<div>
-
-  
-  
-------------------------------------------------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------------------------------------------------
 
   ## 💻 Minhas Skills:
 
@@ -89,11 +76,6 @@ Idiomas e ferramentas | Sobre mim | Deseja entrar em contato comigo  | Minhas Re
 ![Chritiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=chritianegozza&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chritianegozza&layout=compact&show_icons=true&theme=radical)](https://github.com/chritianegozza/github-readme-stats)
-
-
-
-
-
 
 
 <br>
