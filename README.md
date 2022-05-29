@@ -2,8 +2,11 @@
 
 ##  Olá! Eu sou Christiane Gozza. 🌻
 
-Idiomas e ferramentas | Sobre mim | Deseja entrar em contato comigo  | Minhas Redes Sociais | Meus números aqui no github
+   <img src = "https://cdn.streamelements.com/uploads/e18015f5-0608-4c54-97dd-d236f8206e1d.gif">
+
+Minhas Skills | Sobre mim  | Minhas Redes Sociais | Meus números aqui no github
   ------------------------------------------------------------------------------------------------------------------------------------------
+
 
   ## 💻 Minhas Skills:
 
@@ -21,7 +24,7 @@ Idiomas e ferramentas | Sobre mim | Deseja entrar em contato comigo  | Minhas Re
   <img src = "https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 <br/>
- <img src = "https://cdn.streamelements.com/uploads/e18015f5-0608-4c54-97dd-d236f8206e1d.gif">
+
 
   
    ## 👩‍💻 Sobre mim: 
@@ -41,17 +44,8 @@ Idiomas e ferramentas | Sobre mim | Deseja entrar em contato comigo  | Minhas Re
   <br>👩 Entusiasta e apaixonada por tecnologia</br> 
    
 
-  ## 🤝🏻 Deseja entrar em contato comigo?
- 
-   <p align="left">
-   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-  
-
-<div>
- <br>
-
-
+  ## 💌 Minhas redes sociais: ⤵️
+<br>
 <p align="left">
   <a href="mailto:christianenatachag@gmail" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:christianenatachag@gmail" /></a>
