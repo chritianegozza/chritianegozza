@@ -37,9 +37,9 @@ Minhas Skills | Sobre mim  | Minhas Redes Sociais | Meus números aqui no github
    
   <br>🍒 Desenvolvedora web front-end</br>
    
-  <br>💼 Cursando alguns Bootcamps como IGTI, Alura, Digital Innovation One</br>
+  <br>💼 Cursando alguns Bootcamps como IGTI, Alura, Digital Innovation One, Hiring Coders</br>
 
-  <br>🚀 Atualmente estou aprendendo .NET e C#.</br>
+  <br>🚀 Atualmente estou aprendendo flutter, dart, .NET e C#.</br>
   
   <br>👩 Entusiasta e apaixonada por tecnologia</br> 
    
